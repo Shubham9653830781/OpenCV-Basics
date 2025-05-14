@@ -1,4 +1,3 @@
-![FaceFacialRecognitionGIF](https://github.com/user-attachments/assets/ed293798-f56d-419f-913f-cfc04a38181f)
 
 OpenCV Basics Guide
 
