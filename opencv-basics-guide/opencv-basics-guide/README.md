@@ -1,3 +1,5 @@
+![FaceFacialRecognitionGIF](https://github.com/user-attachments/assets/ed293798-f56d-419f-913f-cfc04a38181f)
+
 OpenCV Basics Guide
 
 Welcome to the OpenCV Basics Guide! This repository provides a structured and beginner-friendly path to learn computer vision using OpenCV with Python.
@@ -164,7 +166,7 @@ cheatsheets/ folder (to be filled with useful PDFs/images)
 
 Clone this repository:
 
-git clone https://github.com/your-username/opencv-basics-guide.git
+git clone https://github.com/Shubham9653830781/opencv-basics-guide.git
 cd opencv-basics-guide
 
 Create and activate a virtual environment (optional but recommended):
