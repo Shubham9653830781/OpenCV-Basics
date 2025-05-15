@@ -104,6 +104,15 @@ Learn the difference between simple and adaptive thresholding with code and visu
 
 ---
 
+##🧭 Learning Flow:
+1. Image Basics → 
+2. Color Spaces → 
+3. Thresholding → 
+4. Contours & Shapes → 
+5. Real-Time Video Tasks →
+6. Deep Learning with OpenCV (future)
+
+
 ## 📚 Recommended Learning Path
 
 To build toward advanced CV tasks like object detection, shape segmentation, and pose estimation, follow this roadmap:
