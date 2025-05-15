@@ -1,39 +1,39 @@
 
-OpenCV Basics Guide
+# OpenCV Basics Guide
 
 Welcome to the OpenCV Basics Guide! This repository provides a structured and beginner-friendly path to learn computer vision using OpenCV with Python.
 
 📚 Table of Contents
 
-    Introduction to OpenCV
+ 1. Introduction to OpenCV
 
-    Image Processing
+ 2. Image Processing
 
-    Drawing and Geometries
+ 3. Drawing and Geometries
 
-    Video Processing
+ 4. Video Processing
 
-    Color Spaces
+ 5. Color Spaces
 
-    Object Detection
+ 6. Object Detection
 
-    Mini Projects
+ 7. Mini Projects
 
-    Setup Instructions
+ 8. Setup Instructions
 
 1. Introduction to OpenCV
 
 📌 Topics Covered:
 
-    What is OpenCV?
+   What is OpenCV?
 
-    Installing OpenCV
+   Installing OpenCV
 
-    Reading and displaying images
+   Reading and displaying images
 
-    Basic image properties (shape, dtype, size)
+   Basic image properties (shape, dtype, size)
 
-    Saving images
+   Saving images
 
 📄 Files:
 
@@ -43,13 +43,13 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📌 Topics Covered:
 
-    Converting images to grayscale
+   Converting images to grayscale
 
-    Blurring (Gaussian, median, bilateral)
+   Blurring (Gaussian, median, bilateral)
 
-    Edge detection (Canny)
+   Edge detection (Canny)
 
-    Morphological operations (dilation, erosion, opening, closing)
+   Morphological operations (dilation, erosion, opening, closing)
 
 📄 Files:
 
@@ -61,11 +61,11 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📌 Topics Covered:
 
-    Drawing shapes (lines, rectangles, circles)
+   Drawing shapes (lines, rectangles, circles)
 
-    Adding text on images
+   Adding text on images
 
-    Mouse events (e.g., drawing with mouse)
+   Mouse events (e.g., drawing with mouse)
 
 📄 Files:
 
@@ -77,11 +77,11 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📌 Topics Covered:
 
-    Reading video streams (webcam, video files)
+   Reading video streams (webcam, video files)
 
-    Writing video to file
+   Writing video to file
 
-    Frame-by-frame processing
+   Frame-by-frame processing
 
 📄 Files:
 
@@ -93,11 +93,11 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📌 Topics Covered:
 
-    BGR to RGB conversion
+   BGR to RGB conversion
 
-    HSV color space
+   HSV color space
 
-    Color masking and object segmentation
+   Color masking and object segmentation
 
 📄 Files:
 
@@ -109,11 +109,11 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📌 Topics Covered:
 
-    Contour detection and bounding boxes
+   Contour detection and bounding boxes
 
-    Face detection using Haar Cascades
+   Face detection using Haar Cascades
 
-    Motion detection using frame differencing
+   Motion detection using frame differencing
 
 📄 Files:
 
@@ -127,11 +127,11 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📌 Projects:
 
-    Pose Detection: Detect pose of human.
+   Pose Detection: Detect pose of human.
 
-    Face Blur: Detect and blur faces in live video.
+   Face Blur: Detect and blur faces in live video.
 
-    Basic Object Tracking: Track a colored object in video stream.
+   Basic Object Tracking: Track a colored object in video stream.
 
 📄 Files:
 
