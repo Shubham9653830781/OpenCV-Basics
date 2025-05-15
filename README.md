@@ -115,8 +115,6 @@ To build toward advanced CV tasks like object detection, shape segmentation, and
 5. **Pose Detection with MediaPipe**
 6. **VSLAM & Visual Tracking (ORB-SLAM)**
 
-See the roadmap:
-📄 [Learning\_Path.md](./Learning_Path.md) *(optional addition)*
 
 ---
 
