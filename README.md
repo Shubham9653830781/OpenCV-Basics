@@ -93,7 +93,7 @@ pip install -r requirements.txt
 ## 🧰 Setup Instructions
 
 We support setup on **Windows**, **Linux**, and **Mac**. See the full guide here:
-📄 [Setup\_Instructions.md](./Setup_Instructions.md)
+📄 [Setup\_Instructions.md](./setup_instructions.md)
 
 ---
 
