@@ -5,161 +5,143 @@ Welcome to the OpenCV Basics Guide! This repository provides a structured and be
 
 📚 Table of Contents
 
-Introduction to OpenCV
+    Introduction to OpenCV
 
-Image Processing
+    Image Processing
 
-Drawing and Geometries
+    Drawing and Geometries
 
-Video Processing
+    Video Processing
 
-Color Spaces
+    Color Spaces
 
-Object Detection
+    Object Detection
 
-Mini Projects
+    Mini Projects
 
-Resources and Cheatsheets
-
-Setup Instructions
+    Setup Instructions
 
 1. Introduction to OpenCV
 
 📌 Topics Covered:
 
-What is OpenCV?
+    What is OpenCV?
 
-Installing OpenCV
+    Installing OpenCV
 
-Reading and displaying images
+    Reading and displaying images
 
-Basic image properties (shape, dtype, size)
+    Basic image properties (shape, dtype, size)
 
-Saving images
+    Saving images
 
 📄 Files:
 
-basic_operations.py: How to read, display, and save an image.
+  basic_operations.py: How to read, display, and save an image.
 
 2. Image Processing
 
 📌 Topics Covered:
 
-Converting images to grayscale
+    Converting images to grayscale
 
-Blurring (Gaussian, median, bilateral)
+    Blurring (Gaussian, median, bilateral)
 
-Edge detection (Canny)
+    Edge detection (Canny)
 
-Morphological operations (dilation, erosion, opening, closing)
+    Morphological operations (dilation, erosion, opening, closing)
 
 📄 Files:
 
-grayscale_blur_edges.py
+  grayscale_blur_edges.py
 
-morphology.py
+  morphology.py
 
 3. Drawing and Geometries
 
 📌 Topics Covered:
 
-Drawing shapes (lines, rectangles, circles)
+    Drawing shapes (lines, rectangles, circles)
 
-Adding text on images
+    Adding text on images
 
-Mouse events (e.g., drawing with mouse)
+    Mouse events (e.g., drawing with mouse)
 
 📄 Files:
 
-shapes_text.py
+  shapes_text.py
 
-mouse_events.py
+  mouse_events.py
 
 4. Video Processing
 
 📌 Topics Covered:
 
-Reading video streams (webcam, video files)
+    Reading video streams (webcam, video files)
 
-Writing video to file
+    Writing video to file
 
-Frame-by-frame processing
+    Frame-by-frame processing
 
 📄 Files:
 
-webcam_read.py
+   webcam_read.py
 
-video_record.py
+   video_record.py
 
 5. Color Spaces
 
 📌 Topics Covered:
 
-BGR to RGB conversion
+    BGR to RGB conversion
 
-HSV color space
+    HSV color space
 
-Color masking and object segmentation
+    Color masking and object segmentation
 
 📄 Files:
 
-hsv_conversion.py
+   hsv_conversion.py
 
-masking_colors.py
+   masking_colors.py
 
 6. Object Detection
 
 📌 Topics Covered:
 
-Contour detection and bounding boxes
+    Contour detection and bounding boxes
 
-Face detection using Haar Cascades
+    Face detection using Haar Cascades
 
-Motion detection using frame differencing
+    Motion detection using frame differencing
 
 📄 Files:
 
-contour_detection.py
+  contour_detection.py
 
-face_detection_haar.py
+  face_detection_haar.py
 
-motion_detection.py
+  motion_detection.py
 
 7. Mini Projects
 
 📌 Projects:
 
-Virtual Paint App: Track color markers and draw on screen.
+    Pose Detection: Detect pose of human.
 
-Face Blur: Detect and blur faces in live video.
+    Face Blur: Detect and blur faces in live video.
 
-Basic Object Tracking: Track a colored object in video stream.
-
-📄 Files:
-
-virtual_paint.py
-
-face_blur.py
-
-basic_tracking.py
-
-8. Resources and Cheatsheets
-
-✅ Cheatsheets Include:
-
-OpenCV functions quick reference
-
-HSV color ranges for masking
-
-Morphological operations guide
+    Basic Object Tracking: Track a colored object in video stream.
 
 📄 Files:
 
-reference_links.md
+  pose_detection.py
 
-cheatsheets/ folder (to be filled with useful PDFs/images)
+  face_blur.py
 
-9. Setup Instructions
+  basic_tracking.py
+
+8. Setup Instructions
 
 ✅ Step-by-Step:
 
