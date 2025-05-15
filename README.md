@@ -104,7 +104,7 @@ We support setup on **Windows**, **Linux**, and **Mac**. See the full guide here
 
 ---
 
-##🧭 Learning Flow:
+## 🧭 Learning Flow:
 1. Image Basics → 
 2. Color Spaces → 
 3. Thresholding → 
