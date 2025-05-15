@@ -1,6 +1,0 @@
-
-# OpenCV Basics Guide
-
-
-
-
