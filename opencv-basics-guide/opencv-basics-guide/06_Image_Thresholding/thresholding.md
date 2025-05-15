@@ -17,63 +17,27 @@ Thresholding is a technique to segment an image by turning it into a binary imag
 - Object detection and shape analysis
 - Preprocessing for contour detection
 
-🔍 Comparison: Simple vs Adaptive Thresholding
 
-Feature
+## 🔍 Comparison: Simple vs Adaptive Thresholding
 
-simple_threshold.py
+| Feature                  | `simple_threshold.py`                        | `adaptive_threshold.py`                        |
+| ------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| **Type of Thresholding** | Global thresholding                          | Adaptive thresholding                          |
+| **Threshold Value**      | Fixed manually (e.g., 127)                   | Calculated per local region                    |
+| **Function Used**        | `cv2.threshold()`                            | `cv2.adaptiveThreshold()`                      |
+| **Best Use Case**        | Images with uniform lighting                 | Images with varying illumination               |
+| **Advantages**           | Simple and fast                              | Better results under uneven lighting           |
+| **Disadvantages**        | Sensitive to lighting variations             | Slightly slower; parameters require tuning     |
+| **Example Outcome**      | Might miss edges in darker or brighter areas | Preserves edges and details across all regions |
 
-adaptive_threshold.py
+### 📝 Summary
 
-Type of Thresholding
+* Use **Simple Thresholding** when the lighting in your image is consistent.
+* Use **Adaptive Thresholding** when your image has shadows or areas with different brightness levels.
 
-Global thresholding
+> 💡 Tip: Always convert to grayscale before applying thresholding for best results.
 
-Adaptive thresholding
-
-Threshold Value
-
-Fixed manually (e.g., 127)
-
-Calculated per local region
-
-Function Used
-
-cv2.threshold()
-
-cv2.adaptiveThreshold()
-
-Best Use Case
-
-Images with uniform lighting
-
-Images with varying illumination
-
-Advantages
-
-Simple and fast
-
-Better results under uneven lighting
-
-Disadvantages
-
-Sensitive to lighting variations
-
-Slightly slower; parameters require tuning
-
-Example Outcome
-
-Might miss edges in darker or brighter areas
-
-Preserves edges and details across all regions
-
-📝 Summary
-
-Use Simple Thresholding when the lighting in your image is consistent.
-
-Use Adaptive Thresholding when your image has shadows or areas with different brightness levels.
-
-💡 Tip: Always convert to grayscale before applying thresholding for best results.
+---
 
 Happy Coding! 🚀
 
