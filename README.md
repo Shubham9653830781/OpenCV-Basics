@@ -30,7 +30,6 @@ OpenCV-Basics/
 │   ├── thresholding.md
 ├── Setup_Instructions.md
 ├── requirements.txt
-└── README.md  ← You are here!
 ```
 
 ---
@@ -121,23 +120,3 @@ See the roadmap:
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork the repo and submit pull requests with improvements or additional topics (e.g., face detection, object tracking, etc.).
-
----
-
-## 🧠 Author
-
-**Shubham Patel**
-GitHub: [@Shubham9653830781](https://github.com/Shubham9653830781)
-
----
-
-## 🌟 Star the Repo!
-
-If you found this useful, consider giving the repo a ⭐ to help others discover it!
-
----
-
-Would you like me to format this into your current repository as a file or update anything for your GitHub Pages display as well?
