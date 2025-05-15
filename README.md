@@ -10,26 +10,33 @@ Welcome to the **OpenCV Basics** repository! This project is designed to teach f
 ```bash
 OpenCV-Basics/
 ├── 01_Introduction_to_OpenCV/
-│   ├── intro.md
-│   └── basic_operations.py
+│   ├── intro.md                   # Explains what OpenCV is and how it works
+│   └── basic_operations.py        # Reading, displaying, writing images, drawing lines/shapes
+│
 ├── 02_Image_Manipulation/
-│   ├── image_read_display.py
-│   ├── draw_shapes.py
-│   └── image_resize_crop.py
+│   ├── image_read_display.py      # Loading and showing images using OpenCV
+│   ├── draw_shapes.py             # Drawing lines, rectangles, circles on images
+│   └── image_resize_crop.py       # Resizing and cropping operations
+│
 ├── 03_Thresholding/
-│   ├── simple_threshold.py
-│   ├── adaptive_threshold.py
-│   └── thresholding_comparison.md
+│   ├── simple_threshold.py        # Binary thresholding with fixed value
+│   ├── adaptive_threshold.py      # Adaptive thresholding based on neighborhood
+│   └── thresholding_comparison.md # Comparison table and explanations (merged into Setup_Instructions.md)
+│
 ├── 04_Video_Processing/
-│   ├── webcam_read.py
-│   └── video_record.py
+│   ├── webcam_read.py             # Capturing video from webcam
+│   └── video_record.py            # Recording and saving webcam video to a file
+│
 ├── 05_Color_Spaces/
-│   ├── hsv_conversion.py
-│   └── masking_colors.py
+│   ├── hsv_conversion.py          # Convert BGR to HSV and display components
+│   └── masking_colors.py          # Apply color masks (e.g. detect red, blue)
+│
 ├── 06_Image_Thresholding/
-│   ├── thresholding.md
-├── Setup_Instructions.md
-├── requirements.txt
+│   └── thresholding.md            # Overview of thresholding with examples
+│
+├── Setup_Instructions.md          # Cross-platform OpenCV setup instructions with notebook support
+├── requirements.txt               # Python dependencies (opencv-python, numpy, matplotlib)
+
 ```
 
 ---
